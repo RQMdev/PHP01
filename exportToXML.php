@@ -37,4 +37,3 @@
         header('Content-Type: text/xml');
         header('Content-Disposition: attachment; filename="downloaded.xml"');
         print_r($string);
-?>
