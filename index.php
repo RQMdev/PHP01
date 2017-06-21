@@ -24,7 +24,7 @@
       <p>Temps de l'Activité : <input type="text" name="Temps"></p>
       <p>Sous Objectif de l'Activité : <input type="text" name="SousObjectif"></p>
       <p>Description de l'Activité : <textarea  rows="20" name="Description"></textarea></p>
-      <p><input type="submit" value="OK"></p>
+      <p><input type="submit" value="TELECHARGER en XML"></p>
     </form>
   </body>
 </html>
