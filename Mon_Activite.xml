@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE root SYSTEM "testDTD.dtd">
+<root>
+  <Programme formation="PourLesNuls">
+    <Module language="C++" group="B">
+      <Objectif></Objectif>
+      <Prerequis></Prerequis>
+      <Materiel></Materiel>
+      <Sequence evaluation="Challenge5">
+        <Objectif></Objectif>
+        <Code></Code>
+        <Activite done="false">
+          <Objectif></Objectif>
+          <Code></Code>
+          <Temps></Temps>
+          <SousObjectif></SousObjectif>
+          <Description></Description>
+        </Activite>
+      </Sequence>
+    </Module>
+  </Programme>
+</root>
